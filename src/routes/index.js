@@ -12,7 +12,7 @@ router.get('/', async (req, res) => {
       articles: newsAPI.data.articles,
     })
   } catch (error) {
-    res.render('partials/error')
+    res.render('error')
     if (error.response) {
       console.log(error.response.data)
       console.log(error.response.status)

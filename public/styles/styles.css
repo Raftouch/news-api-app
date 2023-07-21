@@ -524,9 +524,9 @@ video {
 .border {
   border-width: 1px;
 }
-.border-slate-950 {
+.border-black {
   --tw-border-opacity: 1;
-  border-color: rgb(2 6 23 / var(--tw-border-opacity));
+  border-color: rgb(0 0 0 / var(--tw-border-opacity));
 }
 .bg-black {
   --tw-bg-opacity: 1;
@@ -536,11 +536,15 @@ video {
   padding-left: 1.25rem;
   padding-right: 1.25rem;
 }
-.pt-40 {
-  padding-top: 10rem;
+.pt-28 {
+  padding-top: 7rem;
 }
 .text-center {
   text-align: center;
+}
+.text-sm {
+  font-size: 0.875rem;
+  line-height: 1.25rem;
 }
 .font-bold {
   font-weight: 700;
