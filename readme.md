@@ -1,0 +1,4 @@
+- [x] initial setup
+- [x] add styles
+- [ ] add routes
+- [ ] add views
