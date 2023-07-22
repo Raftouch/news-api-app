@@ -1,5 +1,5 @@
 - [x] initial setup
-- [x] add styles
 - [x] add routes
 - [x] add views
 - [x] fetch data
+- [x] add styles

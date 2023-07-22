@@ -497,6 +497,9 @@ video {
 .grid {
   display: grid;
 }
+.h-\[450px\] {
+  height: 450px;
+}
 .h-\[80px\] {
   height: 80px;
 }
@@ -521,13 +524,6 @@ video {
 .gap-5 {
   gap: 1.25rem;
 }
-.border {
-  border-width: 1px;
-}
-.border-black {
-  --tw-border-opacity: 1;
-  border-color: rgb(0 0 0 / var(--tw-border-opacity));
-}
 .bg-black {
   --tw-bg-opacity: 1;
   background-color: rgb(0 0 0 / var(--tw-bg-opacity));
@@ -538,9 +534,6 @@ video {
 }
 .pt-28 {
   padding-top: 7rem;
-}
-.text-center {
-  text-align: center;
 }
 .text-sm {
   font-size: 0.875rem;
